@@ -47,6 +47,7 @@ img{
     font-size: 2rem;
     margin-top: 3rem;
     gap: 5rem;
+    color:#fff;
 }
 
 #user-score, #comp-score{
